@@ -3,12 +3,12 @@ image_format = jpg
 lighting_intensity = 1
 cave_high_contrast = true
 render_unknown_blocks = false
-render_leaves_transparent = true
+render_leaves_transparent = false
 render_biomes = true
 max_zoom = 10
 
 [rotation:tl]
-last_render = 1426863832
+last_render = 1427334310
 tile_offset_x = 0
 tile_offset_y = 0
 
