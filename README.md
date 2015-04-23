@@ -1,5 +1,5 @@
 # minecraft_map
-A map of our intranet Minecraft server
+A map of our Minecraft server
 
 ## Map Overview
 ![](http://i.imgur.com/4aDrIvS.png)
