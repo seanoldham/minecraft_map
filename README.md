@@ -2,7 +2,7 @@
 A map of our intranet Minecraft server
 
 ## Map Overview
-![](http://i.imgur.com/ZZXwQ4p.png)
+![](http://i.imgur.com/4aDrIvS.png)
 
 ## Points of Interest
 
